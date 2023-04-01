@@ -3,9 +3,9 @@
 
 
 ## 🌐 Socials:
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23D42029.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/PushkaraJ)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/you_are_not_goodlooking_but_he)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PushkraJ99) 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%212C42.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/PushkaraJ)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
