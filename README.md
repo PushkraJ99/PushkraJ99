@@ -1,4 +1,4 @@
-# [![PushkraJ](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PushkraJ99)
+
 
 # 💫 About Me:
 🔭 I’m Currently Upgrading My Skills<br>⚡ I’m Currently Learning Web Penetration<br>👾 Bug Hunter | Student
@@ -8,6 +8,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23D42029.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/PushkaraJ)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/you_are_not_goodlooking_but_he)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PushkraJ99) 
+[![PushkraJ](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PushkraJ99)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
