@@ -50,4 +50,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
 
+<p align="center"> 
+  <b># Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/jaykali/count.svg" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
