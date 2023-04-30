@@ -2,9 +2,9 @@
 
 # 💫 About Me
 🔭 I’m Currently Upgrading My Skills<br>⚡ I’m Currently Learning Web Penetration<br>👾 Bug Hunter | Student <br>
-<center>
+<p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500"> 
-</center>
+</p>
 
 
 ## 🌐 Socials:
