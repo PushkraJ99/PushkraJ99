@@ -1,6 +1,6 @@
 
 # 💫 About Me
-👾 Bug Hunter | Security Researcher | Graphic Designer | Student <br> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ　　　　　⚡ Learning App , API , Network Pentesting
+👾 Bug Hunter | Security Researcher | Graphic Designer | Student <br>⚡ Learning App , API , Network Pentesting
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500"> 
 </p>
