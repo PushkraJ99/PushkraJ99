@@ -1,6 +1,6 @@
 
 # 💫 About Me
-🔭 Upgrading My Skills<br>⚡ Learning Web Penetration<br>👾 Bug Hunter | Student <br>
+👾 Bug Hunter | Security Researcher | Graphic Designer | Student <br> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ　　　　　⚡ Learning App , API , Network Pentesting
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500"> 
 </p>
